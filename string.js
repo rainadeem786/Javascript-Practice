@@ -24,7 +24,8 @@ const url = "http://rainadeem.com/@20nadeemjani"
 console.log(url.replace('@20', '$'));
 
 console.log(newName.split(' '))
-//s
+//split use to spaert a string and convet it into array
+//split convert string to array based on condition
 
 
 
